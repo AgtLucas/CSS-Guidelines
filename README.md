@@ -1,12 +1,13 @@
-# General CSS notes, advice and guidelines
+# Guia para CSS, dicas e melhores práticas
 
 ---
 
-## Translations
+## Traduções
 
-* [Russian](https://github.com/matmuchrapna/CSS-Guidelines/blob/master/README%20Russian.md)
-* [Chinese](https://github.com/chadluo/CSS-Guidelines/blob/master/README.md)
-* [French](https://github.com/flexbox/CSS-Guidelines/blob/master/README.md)
+* [Inglês](https://github.com/csswizardry/CSS-Guidelines)
+* [Russo](https://github.com/matmuchrapna/CSS-Guidelines/blob/master/README%20Russian.md)
+* [Chinês](https://github.com/chadluo/CSS-Guidelines/blob/master/README.md)
+* [Francês](https://github.com/flexbox/CSS-Guidelines/blob/master/README.md)
 
 ---
 
